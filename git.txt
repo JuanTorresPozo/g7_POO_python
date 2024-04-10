@@ -1,0 +1,7 @@
+echo "# g7_POO_python" >> README.md
+git init
+git add README.md
+git commit -m "Desafios Modulo 4"
+git branch -M main
+git remote add origin https://github.com/JuanTorresPozo/g7_POO_python.git
+git push -u origin main
